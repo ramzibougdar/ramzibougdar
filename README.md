@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Ramzi 
+___
 
-<!--
-**ramzibougdar/ramzibougdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a **PHP Developer** with expertise in:
+- **Prestashop** (Front & Back) – Passionate about **optimization** and **performance** for Prestashop sites
+- Developing **Custom Modules**
+- Integrating **APIs** and **Data Flows**
+- Currently advancing my skills in **Laravel**
+- Proficient in **CSS** and **JavaScript**
+___
 
-Here are some ideas to get you started:
+### Connect with Me
+- **LinkedIn**: [ramzibougdar](https://www.linkedin.com/in/ramzibougdar/)
+- **Instagram**: [ramzibougdar](https://www.instagram.com/ramzibougdar/) *(Just for fun! 📸)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
