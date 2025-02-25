@@ -1,4 +1,4 @@
-# Hello, I'm Ramzi 
+# Hello, I'm Ramzi <img src="assets/img/hello.webp" width="25">
 ___
 
 ### About Me
