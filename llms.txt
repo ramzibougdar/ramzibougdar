@@ -1,0 +1,93 @@
+# Ramzi Bougdar
+
+> AI Application Developer | PrestaShop & Shopify E-commerce Expert | Full Stack
+
+A full stack developer, since 2026 I have been building applications with AI: agents, automation, content generation, document analysis, internal tools and AI integrated into e-commerce stores, with Claude.
+
+I build on solid B2C and B2B e-commerce expertise with PrestaShop and Shopify: custom modules, integrations and connections to APIs, web services, data and logistics flows. Beyond code, I lead projects from end to end (analysis and estimation, technical and functional specifications, project management (delivery and client side), deployment) and I manage technical teams.
+
+- Location: Antibes, Provence-Alpes-Côte d'Azur, France
+- Current position: Full Stack Developer at Datalinx (since February 2023)
+
+**Professional experience**
+
+- Datalinx — Full Stack Developer, February 2023 – present
+  - Building applications with AI since 2026: agents, automation, content generation, document analysis, internal tools
+  - Integration of AI into e-commerce stores
+  - Design and development of B2C and B2B e-commerce solutions with PrestaShop and Shopify
+  - Project analysis and estimation
+  - Coordination of the work of the various technical teams
+  - Project progress monitoring
+  - Validation of deliverables
+  - Coordination and management of project deployment
+  - Project management (delivery and client side)
+  - Technical leadership and management
+  - Writing detailed technical and functional architecture specifications for projects
+  - Development and maintenance of e-commerce websites
+  - Front-end and back-end development
+- TIMKOD — Senior Fullstack Developer, April 2020 – December 2022
+  - Contribution to the analysis of functional and technical specifications
+  - Contribution to defining the architecture and choosing the technologies
+  - Task breakdown, estimation and planning in an agile context
+  - Project management (delivery and client side)
+  - Technical leadership and management
+  - Code review
+  - Design and development of PrestaShop modules
+  - Handling the most complex custom developments
+  - Communication between PrestaShop and the various APIs, web services, data and logistics flows
+- EVOLUTIVE GROUP — Lead Developer, December 2018 – March 2020
+  - Management of the developers of the Lyon agency
+  - Task estimation and development roadmap planning
+  - Communication between PrestaShop and the various APIs
+  - Design and development of web services
+  - Handling the most complex custom developments
+- EVOLUTIVE GROUP — Full Stack Developer, January 2018 – November 2018
+  - Mock-up integration
+  - Design and development of PrestaShop modules
+- IBS — Web Developer, January 2017 – December 2017
+  - Design and development of custom web applications
+- IBS — Web Developer (internship), February 2016 – December 2016
+  - Web application development
+  - Android application development
+
+**Client assignments**
+
+- Parrot — E-commerce Expert, February 2020 – April 2020: Architecture support for the redesign of the online store.
+- Kisio Digital — E-commerce Expert, March 2019 – June 2019: Design and development of PrestaShop / third-party application APIs for urban transport.
+
+**Education**
+
+- University of Toulon — Master's degree (M2) in Media Engineering, Information and communication (2014–2016)
+- Higher Institute of Computer Science and Multimedia of Sfax — Bachelor's degree in Computer Science, Multimedia & Web Technologies, Computer Science (2011–2014)
+
+**Skills**
+
+- AI: AI agents, Automation, Claude
+- E-commerce: PrestaShop, Shopify, B2C, B2B
+- Back-end: Python, FastAPI, Node.js, Symfony, Laravel
+- Front-end: TypeScript, JavaScript, React, Next.js, HTML5, CSS / Sass
+- Tools: Docker, Git, Webpack
+
+**Languages**
+
+- French: Native / bilingual
+- English: Professional
+
+To contact Ramzi Bougdar, use the Contact section of the online CV.
+
+## CV
+
+- [Online CV (English)](https://ramzibougdar.github.io/en/)
+- [PDF CV (English)](https://ramzibougdar.github.io/assets/CV-Ramzi-Bougdar-en.pdf)
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/ramzibougdar)
+- [GitHub](https://github.com/ramzibougdar)
+- [Instagram](https://www.instagram.com/ramzibougdar/)
+- [TikTok](https://www.tiktok.com/@ramzibougdar)
+
+## Optional
+
+- [Online CV in French](https://ramzibougdar.github.io/fr/)
+- [llms.txt in French](https://ramzibougdar.github.io/fr/llms.txt)

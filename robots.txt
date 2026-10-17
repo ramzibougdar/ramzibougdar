@@ -1,0 +1,48 @@
+# robots.txt — CV Ramzi Bougdar
+#
+# EN: The whole CV can be crawled and indexed, in English (/en/) and in French (/fr/),
+#     by search engines and AI assistants alike. A summary for AI assistants is available
+#     in /llms.txt (English) and /fr/llms.txt (French).
+#     Internal folders (specifications, maintenance scripts, tool settings) are not meant
+#     to be indexed. This file only asks robots: it does not protect any file.
+#
+# FR : Tout le CV peut être exploré et indexé, en anglais (/en/) et en français (/fr/),
+#      par les moteurs de recherche comme par les assistants IA. Un résumé destiné aux
+#      assistants IA est disponible dans /llms.txt (anglais) et /fr/llms.txt (français).
+#      Les dossiers internes (spécifications, scripts de maintenance, réglages d'outils)
+#      n'ont pas vocation à être indexés. Ce fichier ne fait que le demander aux robots :
+#      il ne protège aucun fichier.
+
+# EN: AI assistants and AI search engines, named so each one can be allowed or blocked
+#     on its own later on.
+# FR : Assistants et moteurs de recherche IA, nommés pour pouvoir plus tard autoriser
+#      ou bloquer chacun séparément.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: MistralAI-User
+Allow: /
+Disallow: /specs/
+Disallow: /scripts/
+Disallow: /.specify/
+Disallow: /.claude/
+
+# EN: Every other robot (search engines included).
+# FR : Tous les autres robots (moteurs de recherche compris).
+User-agent: *
+Allow: /
+Disallow: /specs/
+Disallow: /scripts/
+Disallow: /.specify/
+Disallow: /.claude/
+
+Sitemap: https://ramzibougdar.github.io/sitemap.xml
