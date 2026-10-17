@@ -2,15 +2,16 @@
 ___
 
 ### About Me
-I'm a **PHP Developer** with expertise in:
-- **Prestashop** (Front & Back) – Passionate about **optimization** and **performance** for Prestashop sites
+I'm a **Full Stack Developer** with expertise in:
+- **AI applications** – **Agents**, **automation** and **AI integrated into e-commerce stores**, with **Claude**
+- **PrestaShop** & **Shopify** (Front & Back) – **B2C** and **B2B** e-commerce solutions, passionate about **optimization** and **performance**
 - Developing **Custom Modules**
 - Integrating **APIs** and **Data Flows**
-- Currently advancing my skills in **Laravel**
-- Proficient in **CSS** and **JavaScript**
+- **Python**, **Node.js**, **TypeScript**, **React**, **Symfony** and **Laravel**
 ___
 
 ### Connect with Me
+- **CV**: [ramzibougdar.github.io](https://ramzibougdar.github.io/)
 - **LinkedIn**: [ramzibougdar](https://www.linkedin.com/in/ramzibougdar/)
 - **Instagram**: [ramzibougdar](https://www.instagram.com/ramzibougdar/) *(Just for fun! 📸)*
-
+- **TikTok**: [@ramzibougdar](https://www.tiktok.com/@ramzibougdar)
